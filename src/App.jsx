@@ -195,6 +195,15 @@ const Portfolio = () => {
                 <ExternalLink size={20} />
                 <span>View Portfolio</span>
               </a>
+              <a
+                href="https://drive.google.com/file/d/1DYHXLpn9hsdgtMcbAyP4Ey5oJTRujqyQ/view?usp=sharing"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center space-x-2 border border-orange-500 hover:bg-orange-500 px-6 py-3 rounded-full transition-all duration-300"
+              >
+                <FileText size={20} />
+                <span>View Resume</span>
+              </a>
             </div>
           </div>
           <button
